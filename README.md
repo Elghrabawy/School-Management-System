@@ -1,4 +1,4 @@
-# SchoolManagementSystem_IntroToDB-Project
+# Intro to db project using MS-Access
 
 ### make your screen settings like this:
 	Display resolution : 1920 * 1080
